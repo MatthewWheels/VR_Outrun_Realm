@@ -44,35 +44,6 @@
 				"local" : 1
 			}
 ,
-			"Lazerhawk - Oneiric [Dreamrider].mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"Lazerhawk - Cool Breeze [Dreamrider].mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"Power Glove - Power Core.mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"Tonebox - Radium (Cloud Highway) 2019.mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"Miami Nights 1984 - The End.mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
-,
-			"Waveshaper - A Picture in Motion (from Furi original soundtrack).mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
 
 		}
 ,

@@ -1,8 +1,8 @@
-# VR Outrun Realm
+VR Outrun Realm
 
 This project creates a 3D environment that can be explored with VR in the Outrun art style.
 
-### Features:
+Features:
 + A floating skull in the center that rotates
 + Buildings and trees lining the sides of a roadway
 + A delorean car that sits on the side of the road
@@ -11,10 +11,10 @@ This project creates a 3D environment that can be explored with VR in the Outrun
 + A star skybox
 
 
-### Notes
+Notes
 + Currently crashes with variety of vr equipment
 + + This is due to the VR patch that I used to control the camera with
 + Requires a steam vr app
 
 
-### Disclaimer: I do not own the 3D models used in this project. All were gathered off of free 3D model repository sites. Be cautious using the models outside of personal use.
+Disclaimer: I do not own the 3D models used in this project. All were gathered off of free 3D model repository sites. Be cautious using the models outside of personal use.
